@@ -1,5 +1,5 @@
 # READ ME
-This is the solution for the QE Candidate Automation Challenge
+This is a Test Automation Framework based on Java and Selenium
 
 # Requisites
 
